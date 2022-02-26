@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahmoud
+- 👋 Hi, I’m Mahmoud, and i am a software dev. 
 - 👀 I’m interested in Blockchain,Virtual Reality, and App development
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on flutter 
