@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Mahmoud, and i am a software dev. 
+- 👋 Hi, I’m Mahmoud, and i am a software developer. 
 - 👀 I’m interested in Blockchain and App development
-- 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on flutter 
 - 📫 How to reach me via email: mahmoud.alkateb22@gmail.com
 
 <!---
