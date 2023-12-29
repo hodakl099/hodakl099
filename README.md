@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmoud, and i am a software developer. 
-- 👀 I’m interested in Blockchain and App development
+- 👀 I’m interested in Blockchain and Mobile App development
 - 📫 How to reach me via email: mahmoud.alkateb22@gmail.com
 
 <!---
